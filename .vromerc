@@ -53,7 +53,7 @@ set enable_vrome_key=<Esc>
 
 " #Dario
 " Change insert mode key
-nmap i <C-z>
+map i <C-z>
 imap <Esc> <C-Esc>
 
 " The server port is what external server running on
